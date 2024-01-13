@@ -7,4 +7,4 @@
 
 # Screenshot
 Here we have project screenshot :
-![screenshot.jpg]
+![screenshot](screenshot.jpg)
