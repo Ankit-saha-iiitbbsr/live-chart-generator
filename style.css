@@ -57,3 +57,25 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+#screenshotBtn:hover{
+    background-color: #45a049;
+}
+
+#screenshotBtn{
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.hidden{
+    display: none !important;
+}
